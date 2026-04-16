@@ -9,4 +9,4 @@ includes = ["pesde.toml", "README.md", "LICENSE", "src/**/*.luau"]
 
 [target]
 environment = "luau"
-lib = "src"
+lib = "src/init.luau"
